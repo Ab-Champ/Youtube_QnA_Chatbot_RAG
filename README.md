@@ -36,7 +36,7 @@ YouTube_QnA_RAG/
 
 Clone the repo:
 
-git clone https://github.com/yourusername/YouTube_QnA_RAG.git
+git clone [https://github.com/yourusername/YouTube_QnA_RAG.git](https://github.com/Ab-Champ/Youtube_QnA_Chatbot_RAG.git)
 cd YouTube_QnA_RAG
 
 
