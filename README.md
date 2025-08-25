@@ -13,6 +13,9 @@ FAISS for vector search
 
 Streamlit for frontend
 
+## Live Demo  
+👉 [Try it on Streamlit](https://youtubeqnachatbotrag-gnfzvd2eqezxpac23p9hth.streamlit.app/)  
+
 ## 🚀 Features
 
 Fetches transcript from YouTube videos
