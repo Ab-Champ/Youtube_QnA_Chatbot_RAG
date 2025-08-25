@@ -27,6 +27,7 @@ Uses Gemini chat model for question answering
 Simple Streamlit UI
 
 ## 📂 Project Structure
+
 YouTube_QnA_RAG/
 │── app.py                # Main Streamlit app
 │── requirements.txt      # Dependencies
@@ -37,8 +38,6 @@ YouTube_QnA_RAG/
 Clone the repo:
 
 git clone ([(https://github.com/Ab-Champ/Youtube_QnA_Chatbot_RAG.git])
-cd YouTube_QnA_RAG
-
 
 Install dependencies:
 
