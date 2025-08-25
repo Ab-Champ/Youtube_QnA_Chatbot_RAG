@@ -1,5 +1,5 @@
 # 📺 YouTube QnA Chatbot (RAG)
-![Thumbnail](assets/yt_chatbot_thumbnail.png)
+![Thumbnail](assets/yt_thumbnail.jpg)
 
 A Retrieval-Augmented Generation (RAG) powered chatbot that takes a YouTube video link, extracts its transcript, builds a knowledge base, and allows you to ask questions directly about the video content.
 
@@ -102,4 +102,4 @@ Only works for videos with available transcripts
 Make sure you add your GOOGLE_API_KEY in Streamlit secrets before running
 
 ## Inference
-![YouTube QnA Demo](assets/demo.png)
+![YouTube QnA Demo](assets/app_demo.png)
