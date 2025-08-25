@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ## 🔑 API Key Setup
 
 This project uses Google Generative AI (Gemini).
-Instead of storing your key in .env, use Streamlit Secrets Manager.
+Use Streamlit Secrets Manager.
 
 ### Option 1: Local Development
 
@@ -62,9 +62,6 @@ Go to Streamlit Cloud → Settings → Secrets
 Add your API key as:
 
 GOOGLE_API_KEY="your_api_key_here"
-
-
-## ⚠️ Note: Never push your API key or .env file to GitHub. Use .gitignore to exclude sensitive files.
 
 ## ▶️ Run the App
 streamlit run app.py
